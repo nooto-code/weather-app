@@ -15,7 +15,12 @@ It allows users to see the conditions, forecast, temperature, and other related 
 
 The weather app also provides atmospheric pressure, weather conditions, visibility distance, relative humidity, precipitation in different unites, dew point, wind speed and direction, in addition to ten days in future and hourly weather forecast.
 
-
+## Features
+- Shows Current temperature in searched location in celcius.
+- Shows current climate status.
+- Shows wind speed in km/h
+- Shows minimum and maximum temprature.
+- And Shows Humidity there.
 
 ## Tech used
 
